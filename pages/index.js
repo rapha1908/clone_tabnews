@@ -1,8 +1,11 @@
 function Home(){
     return(
         <>
-        <h1>Amor, bora ver Avartar? ou anime? Sera que tem milho para fazermos pipoca?</h1>
-        <h2>Te amo, quero beijo</h2>
+        <h1>Não é sobre promessas grandes,<br />
+é sobre estar aqui.<br />
+Sou feliz com você,<br />
+e isso já diz tudo sobre mim.</h1>
+                
         </>
 
     )
